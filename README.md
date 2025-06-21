@@ -2,7 +2,7 @@
 
 **Founder, brAInwav | GenAI Developer (In Training) | AI Safety & Ethics | Ex-Army Ops**
 
-> 22 years of operational command as a Warrant Officer in the British Army taught me how to solve chaos, lead teams, and adapt under fire. Medical retirement after TBI and FND wasn't the end—it forced a reset. brAInwav is my rebuild-in-public: using lived experience, accredited leadership (ILM L7, FIoL), and hands-on GenAI training to make tech that fits real minds.
+> 22 years of operational command as a Warrant Officer in the British Army taught me how to solve chaos, lead teams, and adapt under fire. Medical retirement after TBI and FND wasn't the end; it forced a reset. brAInwav is my rebuild-in-public: using lived experience, accredited leadership (ILM L7, FIoL), and hands-on GenAI training to make tech that fits real minds.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jamiescottcraik-blue)](https://linkedin.com/in/jamiescottcraik)
 [![Learning Journey](https://img.shields.io/badge/AI%20Leadership-Roadmap-green)](https://github.com/jamiescottcraik/ai-engineering-roadmap)
@@ -12,7 +12,7 @@
 
 ## 🎯 Mission & Focus
 
-My work isn't theory—it's hard-learned. I'm building and testing GenAI tools for recall, decision support, and cognition, starting with what actually works for me.
+My work isn't theory, it's hard-learned. I'm building and testing GenAI tools for recall, decision support, and cognition, starting with what actually works for me.
 Bias for action, no patience for fluff or checkbox "inclusion."
 
 **Current Focus:**
@@ -32,5 +32,5 @@ AI/ML:          CrewAI, LangChain, Gemini, Whisper, RAG
 Cloud:          Google Cloud Platform
 DevOps:         Docker, Kubernetes, GitHub Actions, FastAPI
 Data:           Pandas, PostgreSQL, Streamlit
-Specialties:    Multi-agent Systems, AI Safety, Ops Leadership
+Specialities:    Multi-agent Systems, AI Safety, Ops Leadership
 ```
