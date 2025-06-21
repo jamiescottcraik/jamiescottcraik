@@ -1,6 +1,4 @@
-[<img src="https://raw.githubusercontent.com/jamiescottcraik/brAInwav-llm-scaffold/main/brAInwav.png" alt="brAInwav logo" width="140"/>](https://brainwav.ai)
-
-# Jamie Scott Craik 🚀
+# Jamie Scott Craik, FloL 🚀
 
 **Founder, brAInwav | GenAI Developer (In Training) | AI Safety & Ethics | Ex-Army Ops**
 
