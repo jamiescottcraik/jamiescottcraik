@@ -1,181 +1,263 @@
+<div align="center">
+  
 # Jamie Scott Craik, FloL 🚀
 
-**Founder, brAInwav | AI Engineering Leader | Veteran-Led Innovation | Ex-Army Ops**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=AI+Engineering+Leader+%7C+Veteran-Led+Innovation;22+Years+Military+Command+%E2%86%92+Tech+Leadership;Building+AI+That+Amplifies+Human+Experience" alt="Typing SVG" />
 
-> 22 years of operational command as a Warrant Officer in the British Army taught me how to solve chaos, lead teams, and adapt under fire. Medical retirement after TBI and FND wasn't the end; it forced a reset. brAInwav is my rebuild-in-public: using lived experience, accredited leadership (ILM L7, FIoL), and cutting-edge AI engineering to create technology that amplifies real minds.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
+[![GitHub followers](https://img.shields.io/github/followers/jamiescottcraik?label=Follow&style=for-the-badge&logo=github)](https://github.com/jamiescottcraik)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brAInwav?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/brAInwav)
+[![Website](https://img.shields.io/badge/brAInwav-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brainwav.ai)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jamiescottcraik-blue)](https://linkedin.com/in/jamiescottcraik)
-[![AI Roadmap](https://img.shields.io/badge/AI%20Engineering-Interactive%20Roadmap-green)](https://github.com/jamiescottcraik/ai-engineering-roadmap)
-[![Credentials](https://img.shields.io/badge/Leadership-ILM_L7%20%7C%20FIoL-gold)](https://www.institutelm.com/)
-[![Innovation](https://img.shields.io/badge/Mission-Signals%20from%20Lived%20Minds-purple)](https://github.com/jamiescottcraik)
-
----
-
-## 🎯 Mission: Signals from Lived Minds
-
-**Building AI that amplifies human experience, not replaces it.**
-
-My work bridges military operational excellence with modern AI engineering. I'm developing veteran-led innovations that demonstrate how lived experience + technical rigour creates transformative technology. No theory, no fluff—just battle-tested leadership applied to cutting-edge AI development.
-
-### 🚀 **Current Focus (Q3 2025)**
-
-* 🔧 **Shipping:** [Interactive AI Engineering Roadmap](https://github.com/jamiescottcraik/ai-engineering-roadmap) – Modern React/Next.js platform with OpenUI integration, Kanban learning, and local AI capabilities
-* 🤖 **Building:** [P.A.R.A.gon AI](https://github.com/jamiescottcraik/paragon-ai) – Multi-agent cognitive assistant with local-first architecture
-* 📚 **Mastering:** AI Engineering Leadership ([48-week structured program](https://github.com/jamiescottcraik/ai-engineering-roadmap), 5-phase progression to industry impact)
-* 🎖️ **Advocating:** Veteran integration in AI/ML careers through inclusive technology design
+</div>
 
 ---
 
-## 💻 Technical Stack & Expertise
+<div align="center">
+  <img src="https://github.com/jamiescottcraik/jamiescottcraik/assets/YOUR_ID/header-banner.png" alt="Banner" width="100%" />
+  <!-- Add a custom banner image showcasing your projects -->
+</div>
 
-### **Current Production Stack**
+## 🎖️ From Battlefield to Build Space
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+**Founder, brAInwav | Ex-Army Warrant Officer | ILM L7 | Fellow IoL**
+
+> 22 years of operational command taught me how to solve chaos, lead teams, and adapt under fire. Medical retirement after TBI and FND wasn't the end—it forced a reset. Now I'm applying battle-tested leadership to cutting-edge AI engineering, building technology that amplifies real minds.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Mission-Signals_from_Lived_Minds-6B46C1?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI_Engineering-00ADD8?style=flat-square&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building_in_Public-FF6B6B?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Current Mission: Q3 2025
+
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🔧 **Shipping Now**
+[![Roadmap](https://img.shields.io/badge/Project-AI_Engineering_Roadmap-success?style=flat-square&logo=react)](https://github.com/jamiescottcraik/ai-engineering-roadmap)
+- 🎯 Interactive learning platform with Glass UI
+- 🤖 Multi-provider AI integration (Ollama, OpenAI, Groq)
+- 📊 Kanban-based learning workflow
+- ♿ WCAG 2.1 AAA accessibility
+
+    </td>
+    <td width="50%">
+      
+### 🏗️ **Building Next**
+[![P.A.R.A.gon](https://img.shields.io/badge/Project-P.A.R.A.gon_AI-blue?style=flat-square&logo=python)](https://github.com/jamiescottcraik/paragon-ai)
+- 🧠 Multi-agent cognitive assistant
+- 🔒 Local-first privacy architecture
+- 🎖️ Military-grade decision support
+- 🌟 Neurodiverse-friendly design
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### **Frontend & UI/UX**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### **Backend & Infrastructure**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Leadership & Strategy**
+![Leadership](https://img.shields.io/badge/ILM_Level_7-Strategic_Leadership-gold?style=for-the-badge&logo=award)
+![FIoL](https://img.shields.io/badge/Fellow-Institute_of_Leadership-purple?style=for-the-badge&logo=graduation-cap)
+![Veteran](https://img.shields.io/badge/22_Years-Military_Command-darkgreen?style=for-the-badge&logo=shield)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiescottcraik&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI Engineering Roadmap</h3>
+      <div align="center">
+        <a href="https://github.com/jamiescottcraik/ai-engineering-roadmap" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamiescottcraik&repo=ai-engineering-roadmap&theme=tokyonight&hide_border=true" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
+        <p><strong>Interactive learning platform with Glass UI, Kanban workflow, and local AI tutoring</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">P.A.R.A.gon AI</h3>
+      <div align="center">
+        <a href="https://github.com/jamiescottcraik/paragon-ai" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamiescottcraik&repo=paragon-ai&theme=tokyonight&hide_border=true" />
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+          <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
+        </p>
+        <p><strong>Multi-agent cognitive assistant with local-first architecture</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 📈 Learning Journey & Progress
+
+<div align="center">
+
+### **2025 Roadmap Progress**
+![Progress](https://progress-bar.dev/65/?title=AI%20Engineering%20Mastery&width=600&color=6B46C1)
+
+</div>
+
+```mermaid
+graph LR
+    A[Military Command<br/>22 Years] --> B[Medical Retirement<br/>TBI & FND]
+    B --> C[Tech Transition<br/>2024]
+    C --> D[AI Engineering<br/>Current]
+    D --> E[Industry Leader<br/>Q4 2025]
+    
+    style A fill:#2E7D32
+    style B fill:#F57C00
+    style C fill:#1976D2
+    style D fill:#7B1FA2
+    style E fill:#C2185B
+```
+
+### **Current Learning Metrics**
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Study_Hours-20--25/week-blue?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Project_Hours-15--20/week-green?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Mentorship-5--10/week-purple?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### **Open to Opportunities In:**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Remote_AI/ML_Roles-00ADD8?style=for-the-badge&logo=briefcase&logoColor=white" />
+      <br />
+      <sub>Senior/Staff positions valuing veteran leadership</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Open_Source-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+      <br />
+      <sub>Educational tech & accessibility projects</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Speaking-6B46C1?style=for-the-badge&logo=microphone&logoColor=white" />
+      <br />
+      <sub>Veteran transitions & inclusive AI</sub>
+    </td>
+  </tr>
+</table>
+
+### **Available to Contribute:**
+
+![Mentorship](https://img.shields.io/badge/Veteran_Mentorship-Available-success?style=flat-square&logo=handshake)
+![Leadership](https://img.shields.io/badge/Leadership_Consulting-Open-blue?style=flat-square&logo=users)
+![Strategy](https://img.shields.io/badge/Product_Strategy-Accessibility_Focus-purple?style=flat-square&logo=accessibility)
+![Community](https://img.shields.io/badge/Community_Building-Underrepresented_Voices-orange?style=flat-square&logo=people-group)
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/brAInwav)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@brainwav.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamiescottcraik)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Current Status
+
 ```typescript
-// Frontend Excellence
-Framework:     "Next.js 15 + React 19 + TypeScript"
-Styling:       "TailwindCSS + Framer Motion + shadcn/ui"
-Visualization: "ReactFlow + D3.js + Interactive Components"
-Testing:       "Jest + React Testing Library + Playwright"
-
-// AI & Machine Learning
-LocalAI:       "Ollama + LiteLLM Gateway"
-Providers:     "OpenAI + Groq + Anthropic + Google Gemini"
-Frameworks:    "LangChain + CrewAI + RAG Systems"
-MLOps:         "Docker + Kubernetes + CI/CD"
-
-// Backend & Infrastructure
-Runtime:       "Node.js + Python 3.11"
-Databases:     "PostgreSQL + Vector DBs + IndexedDB"
-Cloud:         "Google Cloud Platform + Docker Compose"
-APIs:          "FastAPI + RESTful + GraphQL"
+const jamie = {
+  location: "UK",
+  currentFocus: "AI Engineering Leadership",
+  learning: ["Advanced RAG Systems", "MLOps", "Distributed Systems"],
+  building: ["Interactive Learning Platform", "Multi-Agent AI Assistant"],
+  advocating: "Veteran Integration in Tech",
+  motto: "Signals from Lived Minds"
+};
 ```
 
-### **Learning Psychology & Design**
-- **Spaced Repetition Science** (SM-2, FSRS algorithms)
-- **Cognitive Load Theory** implementation
-- **Flow State Optimization** for deep learning
-- **WCAG 2.1 AAA Accessibility** compliance
-- **Neuro-inclusive Design** patterns
-
-### **Leadership & Operations**
-- **22 years military command** experience
-- **ILM Level 7** strategic leadership qualification
-- **Fellow of Institute of Leadership** (FIoL)
-- **TDD/Agile methodologies** with constitutional compliance
-- **Cross-functional team** building and mentorship
-
----
-
-## 🏆 Key Projects & Innovations
-
-### [🗺️ AI Engineering Roadmap](https://github.com/jamiescottcraik/ai-engineering-roadmap)
-**Interactive Learning Platform | React/Next.js | OpenUI Integration**
-
-Revolutionary approach to technical education combining:
-- **Browser-based learning interface** with real-time progress tracking
-- **Kanban workflow integration** for optimal learning velocity
-- **Local AI tutoring** with multi-provider support
-- **Veteran-focused community** features and mentorship matching
-
-*Status: Production deployment Q3 2025*
-
-### [🤖 P.A.R.A.gon AI](https://github.com/jamiescottcraik/paragon-ai)
-**Multi-Agent Cognitive Assistant | Python | Local-First Architecture**
-
-Personal productivity AI designed for neurodiverse minds:
-- **Multi-agent orchestration** with CrewAI and LangChain
-- **Local model execution** for privacy and cost optimization
-- **Adaptive interfaces** based on cognitive load and energy levels
-- **Military-grade operational** decision support
-
-*Status: Alpha testing, feature complete Q4 2025*
-
-### 🎖️ Veteran AI Initiative
-**Community Building | Industry Advocacy | Inclusive Design**
-
-Leading efforts to increase veteran representation in AI/ML:
-- **Mentorship programs** connecting military experience with tech careers
-- **Inclusive design research** for accessibility and neurodiversity
-- **Industry partnerships** for veteran-to-civilian AI career transitions
-- **Conference speaking** on military leadership in tech innovation
-
----
-
-## 📊 Learning & Development Metrics
-
-### **Current Progress (2025)**
-```yaml
-Technical Skills:
-  Python/AI Engineering:     "Intermediate → Advanced (Q3)"
-  React/Frontend:            "Intermediate → Expert (Q4)"
-  MLOps/Production:          "Beginner → Intermediate (Q4)"
-  Leadership/Strategy:       "Expert → Industry Recognition (Q4)"
-
-Portfolio Development:
-  Deployed Projects:         "2 major, 4 supporting"
-  GitHub Contributions:      "500+ commits, 3 OSS contributions"
-  Community Impact:          "50+ mentorship connections"
-  Industry Recognition:      "Conference talks, thought leadership"
-
-Learning Velocity:
-  Study Hours/Week:          "20-25 hours structured learning"
-  Project Hours/Week:        "15-20 hours hands-on building"
-  Community Hours/Week:      "5-10 hours mentorship/advocacy"
-```
-
-### **48-Week Learning Roadmap**
-- **Phase 1-2:** Technical Foundations + ML/DL Mastery *(Weeks 1-18)*
-- **Phase 3:** Systems & MLOps Excellence *(Weeks 19-26)*
-- **Phase 4:** Strategic Leadership Development *(Weeks 27-36)*
-- **Phase 5:** Industry Impact & Innovation *(Weeks 37-48)*
-
----
-
-## 🤝 Collaboration & Opportunities
-
-### **Seeking Connections For:**
-- **Remote AI/ML roles** that value veteran leadership and technical growth
-- **Open source collaborations** on educational technology and accessibility
-- **Speaking opportunities** on veteran transitions, AI ethics, and inclusive design
-- **Mentorship exchanges** with senior engineers and military-to-tech veterans
-
-### **Available To Contribute:**
-- **Technical mentorship** for veterans entering AI/ML careers
-- **Leadership consulting** on team building and operational excellence
-- **Product strategy** for accessibility-focused technology development
-- **Community building** for underrepresented voices in AI
-
----
-
-## 📈 Current Metrics & Recognition
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=default)](https://github.com/jamiescottcraik)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact)](https://github.com/jamiescottcraik)
-
-### **Recent Achievements**
-- 🏗️ **Production deployment** of interactive learning platform
-- 🧠 **AI integration** with local model execution and multi-provider support
-- 📱 **Accessibility excellence** with WCAG 2.1 AAA compliance
-- 🎖️ **Community leadership** in veteran AI advocacy initiatives
-
----
-
-## 💬 Let's Connect
-
-**Open to conversations about:**
-- AI engineering opportunities with growth potential
-- Veteran-to-tech career transitions and mentorship
-- Accessible technology design and inclusive innovation
-- Military leadership principles applied to modern tech teams
-
-**Best ways to reach me:**
-- 💼 [LinkedIn: Professional discussions](https://linkedin.com/in/jamiescottcraik)
-- 📧 Email: [Contact through GitHub profile]
-- 🐦 Twitter: [@brAInwav] (Tech thoughts and learning journey)
-- 💻 GitHub: [Follow for daily commits and project updates](https://github.com/jamiescottcraik)
-
----
-
-> *"Signals from Lived Minds"* – Technology that amplifies human experience through veteran-led innovation and inclusive design.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Building%20AI%20That%20Amplifies%20Human%20Experience&fontSize=16&fontColor=ffffff&animation=twinkling" />
 
 **Last Updated:** June 24, 2025 | **Next Milestone:** Q3 2025 Production Deployment
-```
+
+</div>
