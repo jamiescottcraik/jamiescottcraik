@@ -1,6 +1,6 @@
 <div align="center">
   
-# Jamie Scott Craik, FloL 🚀
+# Jamie Scott Craik, FIoL 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=AI+Engineering+Leader+%7C+Veteran-Led+Innovation;22+Years+Military+Command+%E2%86%92+Tech+Leadership;Building+AI+That+Amplifies+Human+Experience" alt="Typing SVG" />
 
@@ -12,11 +12,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/jamiescottcraik/jamiescottcraik/assets/YOUR_ID/header-banner.png" alt="Banner" width="100%" />
-  <!-- Add a custom banner image showcasing your projects -->
-</div>
 
 ## 🎖️ From Battlefield to Build Space
 
@@ -89,9 +84,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **Leadership & Strategy**
-![Leadership](https://img.shields.io/badge/ILM_Level_7-Strategic_Leadership-gold?style=for-the-badge&logo=award)
-![FIoL](https://img.shields.io/badge/Fellow-Institute_of_Leadership-purple?style=for-the-badge&logo=graduation-cap)
-![Veteran](https://img.shields.io/badge/22_Years-Military_Command-darkgreen?style=for-the-badge&logo=shield)
+![Leadership](https://img.shields.io/badge/ILM_Level_7-Strategic_Leadership-gold?style=for-the-badge)
+![FIoL](https://img.shields.io/badge/Fellow-Institute_of_Leadership-purple?style=for-the-badge)
+![Veteran](https://img.shields.io/badge/22_Years-Military_Command-darkgreen?style=for-the-badge)
 
 </div>
 
@@ -100,51 +95,88 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/jamiescottcraik">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiescottcraik&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/jamiescottcraik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiescottcraik&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
+
+<!-- Alternative if above doesn't work -->
+<details>
+<summary>📊 Detailed GitHub Stats</summary>
+<br>
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamiescottcraik&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamiescottcraik&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamiescottcraik&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamiescottcraik&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamiescottcraik&theme=tokyonight)
+
+</div>
+</details>
 
 ---
 
 ## 🏆 Featured Projects
 
 <div align="center">
+
+<!-- Manual approach if API cards don't work -->
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">AI Engineering Roadmap</h3>
-      <div align="center">
-        <a href="https://github.com/jamiescottcraik/ai-engineering-roadmap" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamiescottcraik&repo=ai-engineering-roadmap&theme=tokyonight&hide_border=true" />
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ AI Engineering Roadmap</h3>
+      <br>
+      <p align="center">
+        <a href="https://github.com/jamiescottcraik/ai-engineering-roadmap">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        </p>
-        <p><strong>Interactive learning platform with Glass UI, Kanban workflow, and local AI tutoring</strong></p>
-      </div>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p align="center"><strong>Interactive learning platform with Glass UI, Kanban workflow, and local AI tutoring. Features spaced repetition, progress tracking, and veteran-focused community.</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/jamiescottcraik/ai-engineering-roadmap?style=social" />
+        <img src="https://img.shields.io/github/forks/jamiescottcraik/ai-engineering-roadmap?style=social" />
+      </p>
     </td>
-    <td width="50%">
-      <h3 align="center">P.A.R.A.gon AI</h3>
-      <div align="center">
-        <a href="https://github.com/jamiescottcraik/paragon-ai" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamiescottcraik&repo=paragon-ai&theme=tokyonight&hide_border=true" />
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 P.A.R.A.gon AI</h3>
+      <br>
+      <p align="center">
+        <a href="https://github.com/jamiescottcraik/paragon-ai">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-          <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
-        </p>
-        <p><strong>Multi-agent cognitive assistant with local-first architecture</strong></p>
-      </div>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p align="center"><strong>Multi-agent cognitive assistant with local-first architecture. Military-grade decision support adapted for civilian productivity.</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/jamiescottcraik/paragon-ai?style=social" />
+        <img src="https://img.shields.io/github/forks/jamiescottcraik/paragon-ai?style=social" />
+      </p>
     </td>
   </tr>
 </table>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamiescottcraik&theme=tokyo-night&hide_border=true" width="100%"/>
+
 </div>
 
 ---
@@ -255,6 +287,10 @@ const jamie = {
   motto: "Signals from Lived Minds"
 };
 ```
+
+### 🌟 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Building%20AI%20That%20Amplifies%20Human%20Experience&fontSize=16&fontColor=ffffff&animation=twinkling" />
 
