@@ -15,7 +15,7 @@
 
 **Building AI that amplifies human experience, not replaces it.**
 
-My work bridges military operational excellence with modern AI engineering. I'm developing veteran-led innovations that demonstrate how lived experience + technical rigor creates transformative technology. No theory, no fluff—just battle-tested leadership applied to cutting-edge AI development.
+My work bridges military operational excellence with modern AI engineering. I'm developing veteran-led innovations that demonstrate how lived experience + technical rigour creates transformative technology. No theory, no fluff—just battle-tested leadership applied to cutting-edge AI development.
 
 ### 🚀 **Current Focus (Q3 2025)**
 
@@ -47,3 +47,135 @@ Runtime:       "Node.js + Python 3.11"
 Databases:     "PostgreSQL + Vector DBs + IndexedDB"
 Cloud:         "Google Cloud Platform + Docker Compose"
 APIs:          "FastAPI + RESTful + GraphQL"
+```
+
+### **Learning Psychology & Design**
+- **Spaced Repetition Science** (SM-2, FSRS algorithms)
+- **Cognitive Load Theory** implementation
+- **Flow State Optimization** for deep learning
+- **WCAG 2.1 AAA Accessibility** compliance
+- **Neuro-inclusive Design** patterns
+
+### **Leadership & Operations**
+- **22 years military command** experience
+- **ILM Level 7** strategic leadership qualification
+- **Fellow of Institute of Leadership** (FIoL)
+- **TDD/Agile methodologies** with constitutional compliance
+- **Cross-functional team** building and mentorship
+
+---
+
+## 🏆 Key Projects & Innovations
+
+### [🗺️ AI Engineering Roadmap](https://github.com/jamiescottcraik/ai-engineering-roadmap)
+**Interactive Learning Platform | React/Next.js | OpenUI Integration**
+
+Revolutionary approach to technical education combining:
+- **Browser-based learning interface** with real-time progress tracking
+- **Kanban workflow integration** for optimal learning velocity
+- **Local AI tutoring** with multi-provider support
+- **Veteran-focused community** features and mentorship matching
+
+*Status: Production deployment Q3 2025*
+
+### [🤖 P.A.R.A.gon AI](https://github.com/jamiescottcraik/paragon-ai)
+**Multi-Agent Cognitive Assistant | Python | Local-First Architecture**
+
+Personal productivity AI designed for neurodiverse minds:
+- **Multi-agent orchestration** with CrewAI and LangChain
+- **Local model execution** for privacy and cost optimization
+- **Adaptive interfaces** based on cognitive load and energy levels
+- **Military-grade operational** decision support
+
+*Status: Alpha testing, feature complete Q4 2025*
+
+### 🎖️ Veteran AI Initiative
+**Community Building | Industry Advocacy | Inclusive Design**
+
+Leading efforts to increase veteran representation in AI/ML:
+- **Mentorship programs** connecting military experience with tech careers
+- **Inclusive design research** for accessibility and neurodiversity
+- **Industry partnerships** for veteran-to-civilian AI career transitions
+- **Conference speaking** on military leadership in tech innovation
+
+---
+
+## 📊 Learning & Development Metrics
+
+### **Current Progress (2025)**
+```yaml
+Technical Skills:
+  Python/AI Engineering:     "Intermediate → Advanced (Q3)"
+  React/Frontend:            "Intermediate → Expert (Q4)"
+  MLOps/Production:          "Beginner → Intermediate (Q4)"
+  Leadership/Strategy:       "Expert → Industry Recognition (Q4)"
+
+Portfolio Development:
+  Deployed Projects:         "2 major, 4 supporting"
+  GitHub Contributions:      "500+ commits, 3 OSS contributions"
+  Community Impact:          "50+ mentorship connections"
+  Industry Recognition:      "Conference talks, thought leadership"
+
+Learning Velocity:
+  Study Hours/Week:          "20-25 hours structured learning"
+  Project Hours/Week:        "15-20 hours hands-on building"
+  Community Hours/Week:      "5-10 hours mentorship/advocacy"
+```
+
+### **48-Week Learning Roadmap**
+- **Phase 1-2:** Technical Foundations + ML/DL Mastery *(Weeks 1-18)*
+- **Phase 3:** Systems & MLOps Excellence *(Weeks 19-26)*
+- **Phase 4:** Strategic Leadership Development *(Weeks 27-36)*
+- **Phase 5:** Industry Impact & Innovation *(Weeks 37-48)*
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+### **Seeking Connections For:**
+- **Remote AI/ML roles** that value veteran leadership and technical growth
+- **Open source collaborations** on educational technology and accessibility
+- **Speaking opportunities** on veteran transitions, AI ethics, and inclusive design
+- **Mentorship exchanges** with senior engineers and military-to-tech veterans
+
+### **Available To Contribute:**
+- **Technical mentorship** for veterans entering AI/ML careers
+- **Leadership consulting** on team building and operational excellence
+- **Product strategy** for accessibility-focused technology development
+- **Community building** for underrepresented voices in AI
+
+---
+
+## 📈 Current Metrics & Recognition
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=default)](https://github.com/jamiescottcraik)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact)](https://github.com/jamiescottcraik)
+
+### **Recent Achievements**
+- 🏗️ **Production deployment** of interactive learning platform
+- 🧠 **AI integration** with local model execution and multi-provider support
+- 📱 **Accessibility excellence** with WCAG 2.1 AAA compliance
+- 🎖️ **Community leadership** in veteran AI advocacy initiatives
+
+---
+
+## 💬 Let's Connect
+
+**Open to conversations about:**
+- AI engineering opportunities with growth potential
+- Veteran-to-tech career transitions and mentorship
+- Accessible technology design and inclusive innovation
+- Military leadership principles applied to modern tech teams
+
+**Best ways to reach me:**
+- 💼 [LinkedIn: Professional discussions](https://linkedin.com/in/jamiescottcraik)
+- 📧 Email: [Contact through GitHub profile]
+- 🐦 Twitter: [@jamiescottcraik] (Tech thoughts and learning journey)
+- 💻 GitHub: [Follow for daily commits and project updates](https://github.com/jamiescottcraik)
+
+---
+
+> *"Signals from Lived Minds"* – Technology that amplifies human experience through veteran-led innovation and inclusive design.
+
+**Last Updated:** June 24, 2025 | **Next Milestone:** Q3 2025 Production Deployment
+```
