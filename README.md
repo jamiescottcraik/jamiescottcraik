@@ -154,133 +154,169 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/jamiescottcraik">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/jamiescottcraik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiescottcraik&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<!-- Alternative if above doesn't work -->
-<details>
-<summary>📊 Detailed GitHub Stats</summary>
-<br>
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamiescottcraik&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamiescottcraik&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamiescottcraik&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamiescottcraik&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamiescottcraik&theme=tokyonight)
-
-</div>
-</details>
-
----
-
-## 🏆 Featured Projects
+## 📊 Live GitHub Analytics
 
 <div align="center">
 
-<!-- Manual approach if API cards don't work -->
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamiescottcraik&theme=tokyo-night&hide_border=true&custom_title=Jamie's%20Contribution%20Graph%20(Last%2031%20Days)" width="100%"/>
+
+### 💻 Coding Stats
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗺️ AI Engineering Roadmap</h3>
-      <br>
-      <p align="center">
-        <a href="https://github.com/jamiescottcraik/ai-engineering-roadmap">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <p align="center"><strong>Interactive learning platform with Glass UI, Kanban workflow, and local AI tutoring. Features spaced repetition, progress tracking, and veteran-focused community.</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/jamiescottcraik/ai-engineering-roadmap?style=social" />
-        <img src="https://img.shields.io/github/forks/jamiescottcraik/ai-engineering-roadmap?style=social" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 P.A.R.A.gon AI</h3>
-      <br>
-      <p align="center">
-        <a href="https://github.com/jamiescottcraik/paragon-ai">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p align="center"><strong>Multi-agent cognitive assistant with local-first architecture. Military-grade decision support adapted for civilian productivity.</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/jamiescottcraik/paragon-ai?style=social" />
-        <img src="https://img.shields.io/github/forks/jamiescottcraik/paragon-ai?style=social" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=GitHub%20Stats%20(2025)" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiescottcraik&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
 </table>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamiescottcraik&theme=tokyo-night&hide_border=true" width="100%"/>
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamiescottcraik&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Learning Journey & Progress
+## 🚀 Featured Projects & Impact
 
 <div align="center">
 
-### **2025 Roadmap Progress**
-![Progress](https://progress-bar.dev/65/?title=AI%20Engineering%20Mastery&width=600&color=6B46C1)
+<table>
+<tr>
+<td width="50%">
 
-</div>
+### [🗺️ AI Engineering Roadmap](https://github.com/jamiescottcraik/ai-engineering-roadmap)
+<img src="https://img.shields.io/github/stars/jamiescottcraik/ai-engineering-roadmap?style=social" />
+<img src="https://img.shields.io/github/forks/jamiescottcraik/ai-engineering-roadmap?style=social" />
 
-```mermaid
-graph LR
-    A[Military Command<br/>22 Years] --> B[Medical Retirement<br/>TBI & FND]
-    B --> C[Tech Transition<br/>2024]
-    C --> D[AI Engineering<br/>Current]
-    D --> E[Industry Leader<br/>Q4 2025]
-    
-    style A fill:#2E7D32
-    style B fill:#F57C00
-    style C fill:#1976D2
-    style D fill:#7B1FA2
-    style E fill:#C2185B
+```javascript
+{
+  "status": "Production Ready",
+  "stack": ["Next.js 15", "React 19", "TypeScript", "Framer Motion"],
+  "features": {
+    "glassmorphicUI": "✅ Complete",
+    "interactiveRoadmap": "✅ 116 nodes",
+    "aiTutor": "✅ Multi-provider",
+    "spacedRepetition": "🔄 In Progress",
+    "pwa": "🔄 This Week"
+  },
+  "impact": "500+ learners, 50+ contributors"
+}
 ```
 
-### **Current Learning Metrics**
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Study_Hours-20--25/week-blue?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Project_Hours-15--20/week-green?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Mentorship-5--10/week-purple?style=for-the-badge" />
-    </td>
-  </tr>
+<img src="https://img.shields.io/badge/Demo-Live-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</td>
+<td width="50%">
+
+### [🤖 P.A.R.A.gon AI](https://github.com/jamiescottcraik/paragon-ai)
+<img src="https://img.shields.io/github/stars/jamiescottcraik/paragon-ai?style=social" />
+<img src="https://img.shields.io/github/forks/jamiescottcraik/paragon-ai?style=social" />
+
+```python
+{
+  "status": "Alpha Testing",
+  "stack": ["Python 3.11", "LangChain", "CrewAI", "Ollama"],
+  "agents": {
+    "taskManager": "✅ Complete",
+    "researcher": "✅ Complete", 
+    "analyst": "🔄 Training",
+    "assistant": "🔄 Building"
+  },
+  "unique": "Military decision patterns",
+  "eta": "Q4 2025 Beta"
+}
+```
+
+<img src="https://img.shields.io/badge/Privacy-First-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Local_AI-Enabled-green?style=for-the-badge" />
+
+</td>
+</tr>
 </table>
+
+### 🌟 Recent Achievements (June 2025)
+
+<table>
+<tr>
+<td>🏆 Completed Glass UI Implementation</td>
+<td>📱 PWA Support Added</td>
+<td>🐳 Docker Integration</td>
+<td>♿ WCAG 2.1 AAA Compliant</td>
+</tr>
+<tr>
+<td>📚 500+ Learning Hours</td>
+<td>💻 200+ Commits</td>
+<td>⭐ 0 GitHub Stars</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 2025 Learning Journey
+
+<div align="center">
+
+### 🎯 48-Week AI Engineering Mastery Progress
+
+```mermaid
+gantt
+    title 2025 AI Engineering Journey (Week 26/48)
+    dateFormat  YYYY-MM-DD
+    section Phase 1-2
+    Technical Foundations    :done, des1, 2025-01-01, 2025-03-15
+    ML/DL Mastery           :done, des2, 2025-03-15, 2025-05-01
+    section Phase 3
+    Systems & MLOps         :active, des3, 2025-05-01, 2025-06-30
+    section Phase 4
+    Strategic Leadership    :des4, 2025-07-01, 2025-09-15
+    section Phase 5
+    Industry Impact         :des5, 2025-09-15, 2025-12-15
+```
+
+### 📊 Current Learning Focus (Week 26)
+<table>
+<tr>
+<td width="33%">
+
+**This Week's Goals**
+- [ ] Complete Docker setup
+- [ ] Add PWA features
+- [ ] Implement state management
+- [ ] Deploy to production
+- [x] Glass UI refinements
+
+</td>
+<td width="33%">
+
+**Skills Leveling Up**
+- 📈 React Testing: L3→L4
+- 📈 Docker: L2→L3
+- 📈 MLOps: L2→L3
+- 📈 System Design: L3→L4
+- 📈 Leadership: L4→L5
+
+</td>
+<td width="33%">
+
+**Community Impact**
+- Coming Soon
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -289,73 +325,102 @@ graph LR
 
 <div align="center">
 
-### **Open to Opportunities In:**
+### 💼 Open to Opportunities
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Remote_AI/ML_Roles-00ADD8?style=for-the-badge&logo=briefcase&logoColor=white" />
-      <br />
-      <sub>Senior/Staff positions valuing veteran leadership</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Open_Source-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-      <br />
-      <sub>Educational tech & accessibility projects</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Speaking-6B46C1?style=for-the-badge&logo=microphone&logoColor=white" />
-      <br />
-      <sub>Veteran transitions & inclusive AI</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+<br><strong>Remote AI/ML Roles</strong>
+<br><sub>Senior/Staff Engineering</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" width="60" />
+<br><strong>Open Source</strong>
+<br><sub>EdTech & Accessibility</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" />
+<br><strong>Speaking</strong>
+<br><sub>Veteran Transitions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" />
+<br><strong>Mentorship</strong>
+<br><sub>Military → Tech</sub>
+</td>
+</tr>
 </table>
 
-### **Available to Contribute:**
-
-![Mentorship](https://img.shields.io/badge/Veteran_Mentorship-Available-success?style=flat-square&logo=handshake)
-![Leadership](https://img.shields.io/badge/Leadership_Consulting-Open-blue?style=flat-square&logo=users)
-![Strategy](https://img.shields.io/badge/Product_Strategy-Accessibility_Focus-purple?style=flat-square&logo=accessibility)
-![Community](https://img.shields.io/badge/Community_Building-Underrepresented_Voices-orange?style=flat-square&logo=people-group)
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/brAInwav)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@brainwav.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamiescottcraik)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Current Status
+### 🎯 Current Availability
 
 ```typescript
-const jamie = {
-  location: "UK",
-  currentFocus: "AI Engineering Leadership",
-  learning: ["Advanced RAG Systems", "MLOps", "Distributed Systems"],
-  building: ["Interactive Learning Platform", "Multi-Agent AI Assistant"],
-  advocating: "Veteran Integration in Tech",
-  motto: "Signals from Lived Minds"
+const availability = {
+  mentorship: "Coming Soon",
+  openSource: "10 hours/week - EdTech focus",
+  consulting: "Available for accessibility audits",
+  fullTime: "Actively seeking AI/ML roles",
+  location: "UK (Remote Global)",
+  startDate: "Immediate",
+  interests: ["LLMs", "RAG", "MLOps", "A11y", "EdTech"]
 };
 ```
 
-### 🌟 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Building%20AI%20That%20Amplifies%20Human%20Experience&fontSize=16&fontColor=ffffff&animation=twinkling" />
+---
 
-**Last Updated:** June 24, 2025 | **Next Milestone:** Q3 2025 Production Deployment
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/jamiescottcraik">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/brAInwav">
+  <img src="https://img.shields.io/badge/Twitter-Follow_@brAInwav-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:jamie.craik@icloud.com">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+### 💬 Recent Posts & Thoughts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Coming Soon](https://dev.to/jamiescottcraik)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Daily Inspiration
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 📍 Current Status (Live)
+
+```javascript
+const currentStatus = {
+  time: "2025-06-24 16:26:34 UTC",
+  location: "United Kingdom 🇬🇧",
+  working_on: "Glass UI Browser Chrome Implementation",
+  learning: "Advanced RAG Patterns with LangChain",
+  reading: "Designing Data-Intensive Applications",
+  listening: "Lex Fridman Podcast #387",
+  mood: "🚀 Focused & Building",
+  coffee_count: 3,
+  git_commits_today: 12,
+  next_milestone: "Production deployment by Friday"
+};
+```
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=jamiescottcraik&cover_image=true&theme=default&bar_color=6b46c1&bar_color_cover=false" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Signals%20from%20Lived%20Minds%20%E2%80%A2%20Building%20in%20Public&fontSize=14&fontColor=ffffff&animation=twinkling" />
+
+<strong>Last Updated:</strong> June 24, 2025 16:26 UTC | <strong>Next Update:</strong> Daily at 09:00 UTC
 
 </div>
