@@ -170,7 +170,7 @@ Learning Velocity:
 **Best ways to reach me:**
 - 💼 [LinkedIn: Professional discussions](https://linkedin.com/in/jamiescottcraik)
 - 📧 Email: [Contact through GitHub profile]
-- 🐦 Twitter: [@jamiescottcraik] (Tech thoughts and learning journey)
+- 🐦 Twitter: [@brAInwav] (Tech thoughts and learning journey)
 - 💻 GitHub: [Follow for daily commits and project updates](https://github.com/jamiescottcraik)
 
 ---
