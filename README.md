@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
 [![GitHub followers](https://img.shields.io/github/followers/jamiescottcraik?label=Follow&style=for-the-badge&logo=github)](https://github.com/jamiescottcraik)
-[![Twitter Follow](https://img.shields.io/twitter/follow/brAInwav?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/brAInwav)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brAInwav?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/jscraik)
 [![Website](https://img.shields.io/badge/brAInwav-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brainwav.ai)
 
 </div>
