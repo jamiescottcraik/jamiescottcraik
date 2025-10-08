@@ -13,7 +13,7 @@
 
 ---
 
-## 🎖️ Veteran Generative AI Solutions Consultant & Developer
+## 🎖️ British Army Veteran | Generative AI Solutions Consultant & Developer
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
