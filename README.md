@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=Generative+AI+Solutions+Consultant+%7C+Developer;Veteran-Led+Innovation+%7C+Accessible+AI;Building+Technology+That+Amplifies+Human+Experience" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jscraik)
 [![GitHub followers](https://img.shields.io/github/followers/jamiescottcraik?label=Follow&style=for-the-badge&logo=github)](https://github.com/jamiescottcraik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jscraik?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/jscraik)
 [![Website](https://img.shields.io/badge/brAInwav-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brainwav.dev)
