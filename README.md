@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=Generative+AI+Solutions+Consultant+%7C+Developer;Veteran-Led+Innovation+%7C+Accessible+AI;Building+Technology+That+Amplifies+Human+Experience" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jscraik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
 [![GitHub followers](https://img.shields.io/github/followers/jamiescottcraik?label=Follow&style=for-the-badge&logo=github)](https://github.com/jamiescottcraik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jscraik?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/jscraik)
 [![Website](https://img.shields.io/badge/brAInwav-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brainwav.dev)
@@ -46,7 +46,7 @@
     <td width="50%">
       
 ### 💼 **Consulting Focus**
-[![AI Solutions](https://img.shields.io/badge/Service-GenAI_Consulting-blue?style=flat-square&logo=anthropic)](https://github.com/jamiescottcraik)
+[![AI Solutions](https://img.shields.io/badge/Service-GenAI_Consulting-blue?style=flat-square&logo=github-copilot)](https://github.com/jamiescottcraik)
 - 🏢 Enterprise LLM implementation
 - 🔄 RAG system architecture
 - 🤝 Model Context Protocol (MCP)
@@ -72,18 +72,18 @@
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="65" height="65" />
-<br>Anthropic
-<br>⭐⭐⭐⭐
+<img src="https://github.githubassets.com/assets/copilot-logo-1f578259a95a.svg" width="65" height="65" />
+<br>GitHub Copilot
+<br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
-<img src="https://ollama.com/public/favicon.ico" width="65" height="65" />
+<img src="https://raw.githubusercontent.com/ollama/ollama/main/app/src/assets/images/icon.png" width="65" height="65" />
 <br>Ollama
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
-<img src="https://python.langchain.com/img/favicon.ico" width="65" height="65" />
-<br>LangChain
+<img src="https://langchain-ai.github.io/langgraph/stable/img/icon.png" width="65" height="65" />
+<br>LangGraph
 <br>⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
@@ -139,11 +139,11 @@
 ### **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### **Consulting Expertise**
 ![GenAI](https://img.shields.io/badge/Generative_AI-Solutions_Architecture-gold?style=for-the-badge)
@@ -241,13 +241,13 @@
 <tr>
 <td align="center" width="25%">
 <strong>🤖 LLM Integration</strong>
-<br><sub>OpenAI, Anthropic, Ollama</sub>
+<br><sub>OpenAI, GitHub Copilot, Ollama</sub>
 <br><sub>Custom fine-tuning</sub>
 </td>
 <td align="center" width="25%">
 <strong>🔄 RAG Systems</strong>
 <br><sub>Vector databases</sub>
-<br><sub>Semantic search</sub>
+<br><sub>LangGraph orchestration</sub>
 </td>
 <td align="center" width="25%">
 <strong>♿ Accessible AI</strong>
@@ -277,7 +277,7 @@ const professionalImpact = {
     "Enterprise LLM Implementation",
     "Accessible AI Development", 
     "Multi-Agent Systems (MCP)",
-    "RAG Architecture Design"
+    "LangGraph RAG Architecture"
   ],
   achievements: {
     aiPlatforms: "2 production AI platforms launched",
@@ -305,7 +305,7 @@ const professionalImpact = {
 <td align="center" width="33%">
 <strong>🎯 GenAI Consulting</strong>
 <br>Enterprise LLM strategy
-<br>RAG implementation
+<br>LangGraph implementation
 <br>AI governance
 </td>
 <td align="center" width="33%">
@@ -331,17 +331,17 @@ const professionalImpact = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/jamiescottcraik">
+<a href="https://linkedin.com/in/jscraik">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/jscraik">
   <img src="https://img.shields.io/badge/Twitter-@jscraik-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="mailto:jamie@brainwav.dev">
+<a href="mailto:jscraik@brainwav.io">
   <img src="https://img.shields.io/badge/Email-jamie@brainwav.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://brainwav.dev">
-  <img src="https://img.shields.io/badge/Website-brainwav.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://brainwav.io">
+  <img src="https://img.shields.io/badge/Website-brainwav.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
@@ -358,7 +358,7 @@ const currentStatus = {
   location: "United Kingdom 🇬🇧",
   working_on: "brAInwav Cortex-OS - Accessible AI Platform",
   consulting: "Enterprise LLM implementations",
-  learning: "Advanced RAG patterns, Multi-agent orchestration",
+  learning: "Advanced LangGraph patterns, Multi-agent orchestration",
   availability: "Open to consulting opportunities",
   focus: "Building AI that serves human needs with dignity"
 };
