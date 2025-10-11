@@ -1,6 +1,6 @@
 <div align="center">
   
-# Jamie Scott Craik | Generative AI Solutions Consultant 🚀
+# Jamie Scott Craik | AI Solutions Consultant & Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=Generative+AI+Solutions+Consultant+%7C+Developer;Veteran-Led+Innovation+%7C+Accessible+AI;Building+Technology+That+Amplifies+Human+Experience" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎖️ British Army Veteran | AI Solutions Consultant & Developer
+## British Army Veteran | AI Solutions Consultant & Developer
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
