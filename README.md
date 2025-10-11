@@ -13,7 +13,7 @@
 
 ---
 
-## 🎖️ British Army Veteran | Generative AI Solutions Consultant & Developer
+## 🎖️ British Army Veteran | AI Solutions Consultant & Developer
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -22,7 +22,7 @@
 > Transforming operational excellence from military service into cutting-edge AI solutions. Specializing in enterprise GenAI implementations, LLM integrations, and building accessible AI-first development platforms that serve human needs with dignity.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Mission-Signals_from_Lived_Minds-6B46C1?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission-From_Demo_To_Duty-6B46C1?style=flat-square&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Generative_AI_Solutions-00ADD8?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Approach-Veteran--Led_Innovation-FF6B6B?style=flat-square&logo=shield&logoColor=white" />
 </p>
@@ -36,7 +36,7 @@
     <td width="50%">
       
 ### 🔧 **Active Development**
-[![brAInwav](https://img.shields.io/badge/Project-brAInwav_Cortex--OS-success?style=flat-square&logo=brain)](https://github.com/jamiescottcraik/brAInwav)
+[![brAInwav](https://img.shields.io/badge/Project-brAInwav_Cortex--OS-success?style=flat-square&logo=brain)](https://github.com/jscraik/brAInwav)
 - 🤖 Multi-agent AI collaboration platform
 - 🧠 Local LLM integration (Ollama 7B/8B)
 - ♿ WCAG 2.1 AA accessibility by default
@@ -46,7 +46,7 @@
     <td width="50%">
       
 ### 💼 **Consulting Focus**
-[![AI Solutions](https://img.shields.io/badge/Service-GenAI_Consulting-blue?style=flat-square&logo=github-copilot)](https://github.com/jamiescottcraik)
+[![AI Solutions](https://img.shields.io/badge/Service-GenAI_Consulting-blue?style=flat-square&logo=github-copilot)](https://github.com/jscraik)
 - 🏢 Enterprise LLM implementation
 - 🔄 RAG system architecture
 - 🤝 Model Context Protocol (MCP)
@@ -159,21 +159,21 @@
 <div align="center">
 
 ### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamiescottcraik&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20(Last%2031%20Days)" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jscraik&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph%20(Last%2031%20Days)" width="100%"/>
 
 ### 💻 Development Stats
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=jamiescottcraik&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" />
+<img src="https://github-readme-stats.vercel.app/api?username=jscraik&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiescottcraik&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscraik&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiescottcraik&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jscraik&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
@@ -190,8 +190,8 @@
 <tr>
 <td width="50%">
 
-### [🧠 brAInwav Cortex-OS](https://github.com/jamiescottcraik/Cortex-OS)
-<img src="https://img.shields.io/github/stars/jamiescottcraik/Cortex-OS?style=social" />
+### [🧠 brAInwav Cortex-OS](https://github.com/jscraik/Cortex-OS)
+<img src="https://img.shields.io/github/stars/jscraik/Cortex-OS?style=social" />
 
 ```typescript
 {
@@ -212,8 +212,8 @@
 </td>
 <td width="50%">
 
-### [🗺️ AI Engineering Roadmap](https://github.com/jamiescottcraik/ai-engineering-roadmap)
-<img src="https://img.shields.io/github/stars/jamiescottcraik/ai-engineering-roadmap?style=social" />
+### [🗺️ AI Engineering Roadmap](https://github.com/jscraik/ai-engineering-roadmap)
+<img src="https://img.shields.io/github/stars/jscraik/ai-engineering-roadmap?style=social" />
 
 ```typescript
 {
@@ -338,7 +338,7 @@ const professionalImpact = {
   <img src="https://img.shields.io/badge/Twitter-@jscraik-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="mailto:jscraik@brainwav.io">
-  <img src="https://img.shields.io/badge/Email-jamie@brainwav.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-jscraik@brainwav.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://brainwav.io">
   <img src="https://img.shields.io/badge/Website-brainwav.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
