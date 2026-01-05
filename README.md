@@ -1,11 +1,11 @@
 <div align="center">
-  
-# Jamie Scott Craik | AI Solutions Consultant & Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=Generative+AI+Solutions+Consultant+%7C+Developer;Veteran-Led+Innovation+%7C+Accessible+AI;Building+Technology+That+Amplifies+Human+Experience" alt="Typing SVG" />
+# Jamie Scott Craik | AI Software Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=AI-Powered+Developer+Tools+%7C+Vibe-Coding;From+Demo+To+Duty+%7C+British+Army+Veteran;Building+Tools+That+Amplify+Developer+Experience" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
-[![GitHub followers](https://img.shields.io/github/followers/jamiescottcraik?label=Follow&style=for-the-badge&logo=github)](https://github.com/jamiescottcraik)
+[![GitHub followers](https://img.shields.io/github/followers/jscraik?label=Follow&style=for-the-badge&logo=github)](https://github.com/jscraik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jscraik?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/jscraik)
 [![Website](https://img.shields.io/badge/brAInwav-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brainwav.dev)
 
@@ -13,44 +13,49 @@
 
 ---
 
-## British Army Veteran | AI Solutions Consultant & Developer
+## British Army Veteran | AI Software Developer
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**Founder, brAInwav | Generative AI Specialist | Accessibility-First Development**
+**Founder, brAInwav | AI-Powered Tools | Vibe-Coding Mode**
 
-> Transforming operational excellence from military service into cutting-edge AI solutions. Specializing in enterprise GenAI implementations, LLM integrations, and building accessible AI-first development platforms that serve human needs with dignity.
+> **From Demo to Duty:** Transforming playful experiments into production tools. Building AI-powered developer tools that make coding more accessible, more fun, and more powerful.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Mission-From_Demo_To_Duty-6B46C1?style=flat-square&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Generative_AI_Solutions-00ADD8?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Approach-Veteran--Led_Innovation-FF6B6B?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Philosophy-From_Demo_To_Duty-6B46C1?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-Vibe--Coding-F39C12?style=flat-square&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI_Powered_Tools-00ADD8?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Current Mission: Building Accessible AI
+## 🚀 What I'm Building
 
 <table>
   <tr>
     <td width="50%">
-      
-### 🔧 **Active Development**
-[![brAInwav](https://img.shields.io/badge/Project-brAInwav_Cortex--OS-success?style=flat-square&logo=brain)](https://github.com/jscraik/brAInwav)
-- 🤖 Multi-agent AI collaboration platform
-- 🧠 Local LLM integration (Ollama 7B/8B)
-- ♿ WCAG 2.1 AA accessibility by default
-- 🎯 Cognitive load reduction framework
+
+### 🔧 **Published CLI Tools**
+[![npm](https://img.shields.io/badge/npm-arXiv--CLI-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/arxiv-cli)
+[![npm](https://img.shields.io/badge/npm-wikidata--CLI-d97757?style=flat-square&logo=npm)](https://www.npmjs.org/package/wikidata-cli)
+
+**Knowledge Access CLIs**
+- 📄 `arXiv-CLI` - Paper search & downloads from terminal
+- 📚 `wikidata-cli` - Safe Wikidata REST/SPARQL queries
+- 🚀 Published on npm
+- 🔥 Built in vibe-coding mode
 
     </td>
     <td width="50%">
-      
-### 💼 **Consulting Focus**
-[![AI Solutions](https://img.shields.io/badge/Service-GenAI_Consulting-blue?style=flat-square&logo=github-copilot)](https://github.com/jscraik)
-- 🏢 Enterprise LLM implementation
-- 🔄 RAG system architecture
-- 🤝 Model Context Protocol (MCP)
-- 🔒 Secure AI deployment strategies
+
+### 🛡️ **AI Governance Framework**
+[![brAInwav](https://img.shields.io/badge/Project-amyga--governance-6B46C1?style=flat-square&logo=brain)](https://github.com/jscraik/amyga-governance)
+
+**Safety-First AI Development**
+- 🔐 OWASP Top 10:2025, ASVS 5.0
+- 🤖 OWASP LLM Top 10 (2025)
+- 📋 NIST AI RMF + GenAI Profile
+- 🛡️ Build AI tools safely, from the start
 
     </td>
   </tr>
@@ -58,11 +63,11 @@
 
 ---
 
-## 💻 Tech Arsenal & Expertise
+## 💻 Vibe-Coding Stack
 
 <div align="center">
 
-### **Generative AI & LLM Stack**
+### **AI & LLM Tools**
 
 <table>
 <tr>
@@ -99,7 +104,7 @@
 </tr>
 </table>
 
-### **Full-Stack Development**
+### **Build Tools & Languages**
 
 <table>
 <tr>
@@ -136,19 +141,17 @@
 </tr>
 </table>
 
-### **Cloud & DevOps**
+### **Developer Experience**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### **Consulting Expertise**
-![GenAI](https://img.shields.io/badge/Generative_AI-Solutions_Architecture-gold?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Systems-Implementation-purple?style=for-the-badge)
-![Accessibility](https://img.shields.io/badge/WCAG_2.1-AAA_Compliance-darkgreen?style=for-the-badge)
+### **Building AI-Powered Tools**
+![AI Tools](https://img.shields.io/badge/AI_Powered_Developer_Tools-F39C12?style=for-the-badge)
+![CLIs](https://img.shields.io/badge/CLI_Tools-Command_Line_Experience-6B46C1?style=for-the-badge)
 
 </div>
 
@@ -182,7 +185,7 @@
 
 ---
 
-## 🚀 Featured Projects & Solutions
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -190,24 +193,28 @@
 <tr>
 <td width="50%">
 
-### [🧠 brAInwav Cortex-OS](https://github.com/jscraik/Cortex-OS)
-<img src="https://img.shields.io/github/stars/jscraik/Cortex-OS?style=social" />
+### [🛡️ brAInwav Agentic Governance](https://github.com/jscraik/amyga-governance)
+<img src="https://img.shields.io/github/stars/jscraik/amyga-governance?style=social" />
 
 ```typescript
 {
-  "type": "AI Development Platform",
-  "stack": ["TypeScript 78%", "Python 9%", "React Native"],
+  "what": "AI safety framework for vibe-coders",
+  "standards": [
+    "OWASP Top 10:2025",
+    "OWASP LLM Top 10",
+    "NIST AI RMF"
+  ],
   "features": {
-    "localLLM": "✅ Ollama Integration",
-    "accessibility": "✅ WCAG 2.1 AA",
-    "multiAgent": "✅ MCP Protocol",
-    "cognitive": "✅ Load Reduction"
+    "arcTDD": "G0-G10 workflow gates",
+    "mcp": "First-party MCP adapters",
+    "safety": "SHA-pinned policy validation"
   },
-  "impact": "Veteran-led accessible AI"
+  "license": "Apache 2.0",
+  "vibe": "Ship safely, even when shipping fast"
 }
 ```
 
-<img src="https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" />
 
 </td>
 <td width="50%">
@@ -217,47 +224,68 @@
 
 ```typescript
 {
-  "type": "Learning Platform",
-  "stack": ["TypeScript 70%", "Python 6%", "Shell 16%"],
-  "modules": {
-    "foundations": "✅ Complete",
-    "llmIntegration": "✅ Multi-provider",
-    "deployment": "✅ Docker ready",
-    "accessibility": "✅ Screen reader"
+  "what": "My journey from demo to duty",
+  "duration": "34 weeks",
+  "phases": 5,
+  "approach": "Learn by building",
+  "features": {
+    "interactive": "Web-based progress tracking",
+    "resources": "Curated learning materials",
+    "deliverables": "Ship real AI services"
   },
-  "mission": "Democratize AI education"
+  "motto": "From experiments to production"
 }
 ```
 
-<img src="https://img.shields.io/badge/Open_Source-Community-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-Phase%201%20Active-1f4e79?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
 
-### 💼 Consulting Services & Capabilities
+### 🛠️ Published AI-Powered Developer Tools
 
 <table>
 <tr>
-<td align="center" width="25%">
-<strong>🤖 LLM Integration</strong>
-<br><sub>OpenAI, GitHub Copilot, Ollama</sub>
-<br><sub>Custom fine-tuning</sub>
+<td width="50%">
+
+### [📄 arXiv-CLI](https://github.com/jscraik/arXiv-CLI)
+[![npm](https://img.shields.io/npm/v/arxiv-cli?color=CB3837)](https://www.npmjs.com/package/arxiv-cli)
+[![License](https://img.shields.io/npm/l/arxiv-cli)](LICENSE)
+
+**Terminal Paper Access**
+- Search arXiv by category, keyword, ID
+- Fetch metadata & abstracts
+- Download PDFs
+- Category browsing
+
+```bash
+npm install -g arxiv-cli
+arxiv search "cat:cs.AI" --max-results 5
+```
+
+*Built in vibe-coding mode to make research easier*
+
 </td>
-<td align="center" width="25%">
-<strong>🔄 RAG Systems</strong>
-<br><sub>Vector databases</sub>
-<br><sub>LangGraph orchestration</sub>
-</td>
-<td align="center" width="25%">
-<strong>♿ Accessible AI</strong>
-<br><sub>WCAG compliance</sub>
-<br><sub>Assistive tech integration</sub>
-</td>
-<td align="center" width="25%">
-<strong>🏢 Enterprise AI</strong>
-<br><sub>Secure deployment</sub>
-<br><sub>Compliance & governance</sub>
+<td width="50%">
+
+### [📚 Wikidata CLI](https://github.com/jscraik/wiKi-CLI)
+[![npm](https://img.shields.io/npm/v/wikidata-cli?color=d97757)](https://www.npmjs.org/package/wikidata-cli)
+[![License](https://img.shields.io/npm/l/wikidata-cli)](LICENSE)
+
+**Safe Knowledge Queries**
+- REST API & SPARQL support
+- Read-only by default
+- OAuth for higher limits
+- JSON output
+
+```bash
+npm install -g wikidata-cli
+wikidata entity get Q42 --json
+```
+
+*From demo to duty: experiment → npm package*
+
 </td>
 </tr>
 </table>
@@ -266,27 +294,27 @@
 
 ---
 
-## 🎯 Professional Impact
+## 🎯 What I Do
 
 <div align="center">
 
 ```typescript
-const professionalImpact = {
-  role: "Veteran Generative AI Solutions Consultant & Developer",
-  specializations: [
-    "Enterprise LLM Implementation",
-    "Accessible AI Development", 
-    "Multi-Agent Systems (MCP)",
-    "LangGraph RAG Architecture"
+const whatIDo = {
+  role: "AI Software Developer",
+  mode: "Vibe-coding - ship fast, learn faster",
+  building: [
+    "AI-powered developer tools",
+    "Command-line interfaces",
+    "Knowledge access tools",
+    "Safety frameworks for AI dev"
   ],
-  achievements: {
-    aiPlatforms: "2 production AI platforms launched",
-    accessibility: "100% WCAG 2.1 AA compliance",
-    performance: "70% reduction in inference costs",
-    community: "Open source AI education platform"
+  publishedWork: {
+    npmPackages: "2 published CLIs (arXiv, Wikidata)",
+    governance: "Apache 2.0 licensed safety framework",
+    education: "34-week learn-in-public journey"
   },
-  approach: "Veteran-led innovation with lived experience perspective",
-  mission: "Building AI that amplifies human capability with dignity"
+  philosophy: "From Demo To Duty - turn experiments into production",
+  vibe: "Build cool shit, make it useful, ship it"
 };
 ```
 
@@ -294,31 +322,31 @@ const professionalImpact = {
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Build Together
 
 <div align="center">
 
-### 💼 Available For
+### 💼 Open To
 
 <table>
 <tr>
 <td align="center" width="33%">
-<strong>🎯 GenAI Consulting</strong>
-<br>Enterprise LLM strategy
-<br>LangGraph implementation
-<br>AI governance
+<strong>🛠️ Tool Development</strong>
+<br>AI-powered CLIs
+<br>Developer experience
+<br>Automation tools
 </td>
 <td align="center" width="33%">
-<strong>🛠️ Development</strong>
-<br>Full-stack AI applications
-<br>Accessible interfaces
-<br>Performance optimization
-</td>
-<td align="center" width="33%">
-<strong>🤝 Partnerships</strong>
-<br>Open source collaboration
+<strong>🤝 Collaboration</strong>
+<br>Open source contribution
 <br>Veteran tech initiatives
-<br>Accessibility advocacy
+<br>Fun projects
+</td>
+<td align="center" width="33%">
+<strong>🚀 From Demo to Duty</strong>
+<br>Turn experiments into products
+<br>Ship safely
+<br>Learn in public
 </td>
 </tr>
 </table>
@@ -327,12 +355,12 @@ const professionalImpact = {
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/jscraik">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/jscraik">
   <img src="https://img.shields.io/badge/Twitter-@jscraik-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -350,24 +378,24 @@ const professionalImpact = {
 
 <div align="center">
 
-### 🌟 Current Status
+### 🌟 Current Vibe
 
 ```javascript
-const currentStatus = {
-  role: "Veteran Generative AI Solutions Consultant & Developer",
+const currentVibe = {
+  role: "AI Software Developer",
   location: "United Kingdom 🇬🇧",
-  working_on: "brAInwav Cortex-OS - Accessible AI Platform",
-  consulting: "Enterprise LLM implementations",
-  learning: "Advanced LangGraph patterns, Multi-agent orchestration",
-  availability: "Open to consulting opportunities",
-  focus: "Building AI that serves human needs with dignity"
+  mode: "Deep in vibe-coding mode 🚀",
+  building: "AI-powered developer tools",
+  philosophy: "From Demo To Duty",
+  availability: "Open to cool tool projects",
+  focus: "Build tools that make developers' lives better"
 };
 ```
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Signals%20from%20Lived%20Minds%20%E2%80%A2%20Veteran--Led%20Innovation&fontSize=14&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=From%20Demo%20To%20Duty%20%E2%80%A2%20Veteran--Led%20Innovation&fontSize=14&fontColor=ffffff&animation=twinkling" />
 
-<strong>Building accessible AI solutions through lived experience</strong>
+<strong>Turn experiments into production tools</strong>
 
 </div>
