@@ -254,6 +254,28 @@
 <tr>
 <td width="50%">
 
+### [🤖 zai-cli](https://github.com/jscraik/zai-cli)
+[![npm](https://img.shields.io/npm/v/zai-cli?color=F39C12)](https://www.npmjs.com/package/zai-cli)
+[![License](https://img.shields.io/npm/l/zai-cli)](LICENSE)
+
+**Z.AI Capabilities CLI**
+- 🖼️ Vision analysis (images, OCR, UI diff, video)
+- 🔍 Web search with domain filtering
+- 📖 Web reader (fetch & parse to markdown)
+- 🐙 GitHub repo exploration
+- 🔧 MCP tool discovery
+
+```bash
+npm install -g zai-cli
+zai-cli vision analyze screenshot.png "What errors do you see?"
+zai-cli search "TypeScript best practices" --count 5
+```
+
+*From demo to duty: experiment → production CLI*
+
+</td>
+<td width="50%">
+
 ### [📄 arXiv-CLI](https://github.com/jscraik/arXiv-CLI)
 [![npm](https://img.shields.io/npm/v/arxiv-cli?color=CB3837)](https://www.npmjs.com/package/arxiv-cli)
 [![License](https://img.shields.io/npm/l/arxiv-cli)](LICENSE)
@@ -272,6 +294,8 @@ arxiv search "cat:cs.AI" --max-results 5
 *Built in vibe-coding mode to make research easier*
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [📚 Wikidata CLI](https://github.com/jscraik/wiKi-CLI)
@@ -351,6 +375,16 @@ Safe Wikidata REST/SPARQL queries from CLI
 <tr>
 <td align="center" width="48%">
 
+### 🤖 [zai-cli](https://github.com/jscraik/zai-cli)
+**Z.AI Capabilities CLI**
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/jscraik/zai-cli)
+[![npm](https://img.shields.io/npm/v/zai-cli?style=flat-square)](https://www.npmjs.com/package/zai-cli)
+
+Vision, search, web reader, repo exploration, MCP tools
+
+</td>
+<td align="center" width="48%">
+
 ### ⚙️ [dotfiles](https://github.com/jscraik/dotfiles)
 **Dev Environment**
 [![Shell](https://img.shields.io/badge/Shell-283030?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/jscraik/dotfiles)
@@ -382,7 +416,7 @@ const whatIDo = {
     "Safety frameworks for AI dev"
   ],
   publishedWork: {
-    npmPackages: "2 published CLIs (arXiv, Wikidata)",
+    npmPackages: "3 published CLIs (zai, arXiv, Wikidata)",
     governance: "Apache 2.0 licensed safety framework",
     education: "34-week learn-in-public journey"
   },
