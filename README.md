@@ -294,6 +294,83 @@ wikidata entity get Q42 --json
 
 ---
 
+## 📁 All Repositories
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="48%">
+
+### 🛡️ [amyga-governance](https://github.com/jscraik/amyga-governance)
+**AI Safety Framework**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/jscraik/amyga-governance)
+[![Stars](https://img.shields.io/github/stars/jscraik/amyga-governance?style=social)](https://github.com/jscraik/amyga-governance)
+
+Coding governance for all brAInwav projects
+
+</td>
+<td align="center" width="48%">
+
+### 🗺️ [ai-engineering-roadmap](https://github.com/jscraik/ai-engineering-roadmap)
+**Learning Journey**
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/jscraik/ai-engineering-roadmap)
+[![Stars](https://img.shields.io/github/stars/jscraik/ai-engineering-roadmap?style=social)](https://github.com/jscraik/ai-engineering-roadmap)
+
+34-week self-directed journey to AI mastery
+
+</td>
+</tr>
+<tr>
+<td align="center" width="48%">
+
+### 📄 [arXiv-CLI](https://github.com/jscraik/arXiv-CLI)
+**Terminal Paper Access**
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/jscraik/arXiv-CLI)
+[![npm](https://img.shields.io/npm/v/arxiv-cli?style=flat-square)](https://www.npmjs.com/package/arxiv-cli)
+
+Search, fetch & download arXiv papers from terminal
+
+</td>
+<td align="center" width="48%">
+
+### 📚 [wiKi-CLI](https://github.com/jscraik/wiKi-CLI)
+**Wikidata Query Tool**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/jscraik/wiKi-CLI)
+[![npm](https://img.shields.io/npm/v/wikidata-cli?style=flat-square)](https://www.npmjs.org/package/wikidata-cli)
+
+Safe Wikidata REST/SPARQL queries from CLI
+
+</td>
+</tr>
+<tr>
+<td align="center" width="48%">
+
+### 🐤 [brainwav-governance-canary](https://github.com/jscraik/brainwav-governance-canary)
+**Canary Release**
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/jscraik/brainwav-governance-canary)
+
+Testing ground for governance framework changes
+
+</td>
+<td align="center" width="48%">
+
+### ⚙️ [dotfiles](https://github.com/jscraik/dotfiles)
+**Dev Environment**
+[![Shell](https://img.shields.io/badge/Shell-283030?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/jscraik/dotfiles)
+
+Personal development environment configuration
+
+</td>
+</tr>
+</table>
+
+**View all at:** [github.com/jscraik](https://github.com/jscraik?tab=repositories)
+
+</div>
+
+---
+
 ## 🎯 What I Do
 
 <div align="center">
