@@ -352,15 +352,6 @@ Safe Wikidata REST/SPARQL queries from CLI
 <tr>
 <td align="center" width="48%">
 
-### 🐤 [brainwav-governance-canary](https://github.com/jscraik/brainwav-governance-canary)
-**Canary Release**
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/jscraik/brainwav-governance-canary)
-
-Testing ground for governance framework changes
-
-</td>
-<td align="center" width="48%">
-
 ### ⚙️ [dotfiles](https://github.com/jscraik/dotfiles)
 **Dev Environment**
 [![Shell](https://img.shields.io/badge/Shell-283030?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/jscraik/dotfiles)
