@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
 [![GitHub followers](https://img.shields.io/github/followers/jscraik?label=Follow&style=for-the-badge&logo=github)](https://github.com/jscraik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jscraik?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/jscraik)
-[![Website](https://img.shields.io/badge/brAInwav-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brainwav.dev)
 
 </div>
 
@@ -441,9 +440,6 @@ const whatIDo = {
 </a>
 <a href="mailto:jscraik@brainwav.io">
   <img src="https://img.shields.io/badge/Email-jscraik@brainwav.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://brainwav.io">
-  <img src="https://img.shields.io/badge/Website-brainwav.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
