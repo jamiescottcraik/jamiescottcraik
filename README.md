@@ -67,44 +67,34 @@
 
 <div align="center">
 
-### **AI & LLM Tools**
+### **AI Pair Programmers**
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="65" height="65" />
-<br>OpenAI
+<td align="center" width="110">
+<br>🤖 Claude Code
+<br><sub>My Co-Pilot</sub>
 <br>⭐⭐⭐⭐⭐
 </td>
-<td align="center" width="96">
-<img src="https://github.githubassets.com/assets/copilot-logo-1f578259a95a.svg" width="65" height="65" />
-<br>GitHub Copilot
+<td align="center" width="110">
+<br>🧠 OpenAI Codex
+<br><sub>Code Generation</sub>
 <br>⭐⭐⭐⭐⭐
 </td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/ollama/ollama/main/app/src/assets/images/icon.png" width="65" height="65" />
-<br>Ollama
+<td align="center" width="110">
+<br>👻 Ghostly
+<br><sub>AI Assistant</sub>
 <br>⭐⭐⭐⭐⭐
 </td>
-<td align="center" width="96">
-<img src="https://langchain-ai.github.io/langgraph/stable/img/icon.png" width="65" height="65" />
-<br>LangGraph
-<br>⭐⭐⭐⭐
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" />
-<br>Python
-<br>⭐⭐⭐⭐
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65" />
-<br>FastAPI
-<br>⭐⭐⭐⭐
+<td align="center" width="110">
+<br>🦙 Ollama
+<br><sub>Local LLMs</sub>
+<br>⭐⭐⭐⭐⭐
 </td>
 </tr>
 </table>
 
-### **Build Tools & Languages**
+### **Languages & Frameworks**
 
 <table>
 <tr>
@@ -114,44 +104,60 @@
 <br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+<br>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
 <br>React
-<br>⭐⭐⭐⭐
+<br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" />
-<br>Next.js
-<br>⭐⭐⭐⭐
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+<br>Node.js
+<br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
-<br>Tailwind
-<br>⭐⭐⭐⭐
+<img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="65" height="65" />
+<br>Swift
+<br>⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br>Docker
-<br>⭐⭐⭐
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rust" width="65" height="65" />
-<br>Rust
-<br>⭐⭐⭐
+<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="65" height="65" />
+<br>SwiftUI
+<br>⭐⭐⭐⭐⭐
 </td>
 </tr>
 </table>
 
-### **Developer Experience**
+### **Build Tools & Styling**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://vitejs.dev/logo-with-shadow.png" width="65" height="65" />
+<br>Vite
+<br>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+<br>Tailwind
+<br>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=swift" width="65" height="65" />
+<br>SwiftPM
+<br>⭐⭐⭐⭐
+</td>
+</tr>
+</table>
 
-### **Building AI-Powered Tools**
-![AI Tools](https://img.shields.io/badge/AI_Powered_Developer_Tools-F39C12?style=for-the-badge)
-![CLIs](https://img.shields.io/badge/CLI_Tools-Command_Line_Experience-6B46C1?style=for-the-badge)
+### **Environment**
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-First-283030?style=for-the-badge&logo=terminal&logoColor=white)
+![Vibe](https://img.shields.io/badge/Vibe--Coding_Mode-F39C12?style=for-the-badge&logo=rocket&logoColor=white)
 
 </div>
 
