@@ -18,6 +18,10 @@
 
 > **From Demo to Duty:** Transforming playful experiments into production tools. Building AI-powered developer tools that make coding more accessible, more fun, and more powerful.
 
+**Now (Jan 15, 2026):** Building gKit and CLI tooling for AI developer workflows.
+
+**Last updated:** 2026-01-15
+
 ![Philosophy](https://img.shields.io/badge/Philosophy-From_Demo_To_Duty-6B46C1?style=flat-square&logo=rocket&logoColor=white)
 ![Mode](https://img.shields.io/badge/Mode-Vibe--Coding-F39C12?style=flat-square&logo=terminal&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-AI_Powered_Tools-00ADD8?style=flat-square&logo=openai&logoColor=white)
@@ -49,13 +53,54 @@
 ![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe--Coding-F39C12?style=flat-square&logo=rocket&logoColor=white)
 
-## Current Projects
+## TL;DR
 
-* 🛡️ **[AMYGA Governance](https://github.com/jscraik/amyga-governance)** - AI safety framework with ArcTDD gates, MCP adapters, and SHA-pinned policy validation (OWASP, NIST AI RMF)
-* 🔍 **[zSearch](https://github.com/jscraik/zai-cli)** - Z.AI capabilities CLI + MCP server: vision, web search, GitHub repo exploration, chat
-* 📄 **[rSearch](https://github.com/jscraik/arXiv-CLI)** - arXiv paper search, metadata fetch, and PDF downloads from terminal
-* 📚 **[wSearch](https://github.com/jscraik/wiKi-CLI)** - Safe Wikidata REST/SPARQL queries, read-only by default
-* 🗺️ **[AI Engineering Roadmap](https://github.com/jscraik/ai-engineering-roadmap)** - 34-week learn-in-public journey to AI mastery
+**Problem:** OSS teams and founders need fast, reliable AI tooling they can trust.
+
+**Solution:** I build pragmatic CLIs and governance tools that turn experiments into safe, repeatable workflows.
+
+**Why it helps:** Clear defaults, fast setup, and tools that scale from solo dev to team.
+
+## Featured Projects (Community + Adoption)
+
+* 🧭 **[ralph-gold](https://github.com/jscraik/ralph-gold)** - Golden Ralph Loop orchestrator for deterministic CLI-agent sessions until your PRD is complete
+* 📄 **[rSearch](https://github.com/jscraik/rSearch)** - CLI to search, fetch, and download arXiv papers with metadata and URLs
+* 📚 **[wSearch](https://github.com/jscraik/wSearch)** - Safe, read-only Wikidata CLI for REST, SPARQL, and Action API queries
+* 🔍 **[zSearch](https://github.com/jscraik/zSearch)** - Z.AI CLI + MCP server for vision, web search, repo exploration, chat, and automation
+
+## Quick Start (Pick One)
+
+```bash
+# ralph-gold
+gh repo clone jscraik/ralph-gold
+cd ralph-gold
+uv tool install -e .
+ralph --help
+```
+
+```bash
+# rSearch
+npm i -g @brainwav/rsearch
+rsearch --help
+```
+
+```bash
+# wSearch
+npm i -g @brainwav/wsearch-cli
+wsearch --help
+```
+
+```bash
+# zSearch
+npm i -g @brainwav/zsearch
+zsearch --help
+```
+
+## More Projects
+
+* 🧰 **[mKit](https://github.com/jscraik/mKit)** - MCP server boilerplate for Cloudflare Workers with OAuth 2.1, Stripe billing, and Apps SDK UI integration
+* 🧪 **[sTools](https://github.com/jscraik/sTools)** - Skill-tree toolkit for Codex/Claude: macOS app, CLI, and SwiftPM plugin for validation and sync
+* 🐦 **[xKit](https://github.com/jscraik/xKit)** - Fast X/Twitter CLI for tweeting, replying, and reading via GraphQL (cookie auth)
 
 ## The Search Family
 
@@ -63,14 +108,14 @@ All published under `@brainwav` on npm:
 
 | CLI | What it does | Install |
 |-----|--------------|---------|
-| **zSearch** | Z.AI vision, search, web reader, repo exploration, MCP server | `npm i -g @brainwav/zsearch` |
-| **rSearch** | arXiv paper search, fetch, download | `npm i -g @brainwav/rsearch` |
-| **wSearch** | Wikidata REST/SPARQL queries | `npm i -g @brainwav/wsearch-cli` |
+| **[zSearch](https://github.com/jscraik/zSearch)** | Z.AI vision, search, web reader, repo exploration, MCP server | `npm i -g @brainwav/zsearch` |
+| **[rSearch](https://github.com/jscraik/rSearch)** | arXiv paper search, fetch, download | `npm i -g @brainwav/rsearch` |
+| **[wSearch](https://github.com/jscraik/wSearch)** | Wikidata REST/SPARQL queries | `npm i -g @brainwav/wsearch-cli` |
 
 ## What I'm Doing
 
 * **Building AI-powered CLIs** - Tools that make developers' lives easier
-* **Shipping governance frameworks** - Safety-first AI development with AMYGA
+* **Shipping governance frameworks** - Safety-first AI development with **[gKit](https://github.com/jscraik/gKit)**
 * **Learning in public** - Documenting the journey from demo to duty
 * **Vibe-coding** - Rapid prototyping with Claude Code and Codex
 
@@ -89,8 +134,5 @@ All published under `@brainwav` on npm:
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-00A0DC?style=for-the-badge&logoColor=white)](https://linkedin.com/in/jamiescottcraik)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jscraik)
-[![@jscraik](https://img.shields.io/badge/@jscraik-1DA1F2?style=for-the-badge&logoColor=white)](https://twitter.com/jscraik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jscraik@brainwav.io)
-[![jscraik@brainwav.io](https://img.shields.io/badge/jscraik@brainwav.io-EA4335?style=for-the-badge&logoColor=white)](mailto:jscraik@brainwav.io)
