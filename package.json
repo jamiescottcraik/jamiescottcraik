@@ -1,0 +1,13 @@
+{
+  "name": "jscraik-profile-readme",
+  "version": "1.0.0",
+  "description": "Automated GitHub Profile README for jscraik",
+  "type": "module",
+  "scripts": {
+    "start": "node generate-readme.js"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-emoji": "^3.0.0"
+  }
+}

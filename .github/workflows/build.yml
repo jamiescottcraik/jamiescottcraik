@@ -1,0 +1,40 @@
+name: Build README
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '40 * * * *'  # Hourly at minute 40
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update README
+        run: |
+          npm start
+          cat README.md
+
+      - name: Commit and push if changed
+        run: |-
+          git add .
+          git diff
+          git config --global user.email "github-action-bot@example.com"
+          git config --global user.name "GitHub Action Bot"
+          git commit -m "Updated README" -a || echo "No changes to commit"
+          git push

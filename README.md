@@ -18,9 +18,9 @@
 
 > **From Demo to Duty:** Transforming playful experiments into production tools. Building AI-powered developer tools that make coding more accessible, more fun, and more powerful.
 
-**Now (Jan 15, 2026):** Building gKit and CLI tooling for AI developer workflows.
+**Now (Jan 20, 2026):** Building gKit and CLI tooling for AI developer workflows.
 
-**Last updated:** 2026-01-15
+**Last updated:** 2026-01-20
 
 ![Philosophy](https://img.shields.io/badge/Philosophy-From_Demo_To_Duty-6B46C1?style=flat-square&logo=rocket&logoColor=white)
 ![Mode](https://img.shields.io/badge/Mode-Vibe--Coding-F39C12?style=flat-square&logo=terminal&logoColor=white)
@@ -63,10 +63,12 @@
 
 ## Featured Projects (Community + Adoption)
 
-* 🧭 **[ralph-gold](https://github.com/jscraik/ralph-gold)** - Golden Ralph Loop orchestrator for deterministic CLI-agent sessions until your PRD is complete
-* 📄 **[rSearch](https://github.com/jscraik/rSearch)** - CLI to search, fetch, and download arXiv papers with metadata and URLs
-* 📚 **[wSearch](https://github.com/jscraik/wSearch)** - Safe, read-only Wikidata CLI for REST, SPARQL, and Action API queries
-* 🔍 **[zSearch](https://github.com/jscraik/zSearch)** - Z.AI CLI + MCP server for vision, web search, repo exploration, chat, and automation
+* 🧭 **[ralph-gold](https://github.com/jscraik/ralph-gold)** - A *Golden Ralph Loop* orchestrator that runs **fresh CLI-agent sessions** (Codex, Claude Code, Co...
+* 📄 **[rSearch](https://github.com/jscraik/rSearch)** - rSearch helps developers search, fetch, and download arXiv papers from the terminal
+* 📚 **[wSearch](https://github.com/jscraik/wSearch)**
+* 🔍 **[zSearch](https://github.com/jscraik/zSearch)** - Z.AI capabilities CLI and MCP server for agents and automation
+* 🧰 **[mKit](https://github.com/jscraik/mKit)** ⭐ 1 - MCP Server Boilerplate for Cloudflare Workers
+* 🐦 **[xKit](https://github.com/jscraik/xKit)** - Unofficial X Web API Toolkit
 
 ## Quick Start (Pick One)
 
@@ -98,9 +100,10 @@ zsearch --help
 
 ## More Projects
 
-* 🧰 **[mKit](https://github.com/jscraik/mKit)** - MCP server boilerplate for Cloudflare Workers with OAuth 2.1, Stripe billing, and Apps SDK UI integration
-* 🧪 **[sTools](https://github.com/jscraik/sTools)** - Skill-tree toolkit for Codex/Claude: macOS app, CLI, and SwiftPM plugin for validation and sync
-* 🐦 **[xKit](https://github.com/jscraik/xKit)** - Fast X/Twitter CLI for tweeting, replying, and reading via GraphQL (cookie auth)
+* 📦 **[Agent-Skills](https://github.com/jscraik/Agent-Skills)** - My catalogue of Skills.md
+* 📦 **[SkillsInspector](https://github.com/jscraik/SkillsInspector)**
+* 📦 **[jscraik](https://github.com/jscraik/jscraik)** - from demo to duty | Veteran-Led
+* 📦 **[aStudio](https://github.com/jscraik/aStudio)** - Cross-Platform UI Workbench
 
 ## The Search Family
 
