@@ -18,9 +18,9 @@
 
 > **From Demo to Duty:** Transforming playful experiments into production tools. Building AI-powered developer tools that make coding more accessible, more fun, and more powerful.
 
-**Now (Jan 20, 2026):** Building gKit and CLI tooling for AI developer workflows.
+**Now (Jan 21, 2026):** Building gKit and CLI tooling for AI developer workflows.
 
-**Last updated:** 2026-01-20
+**Last updated:** 2026-01-21
 
 ![Philosophy](https://img.shields.io/badge/Philosophy-From_Demo_To_Duty-6B46C1?style=flat-square&logo=rocket&logoColor=white)
 ![Mode](https://img.shields.io/badge/Mode-Vibe--Coding-F39C12?style=flat-square&logo=terminal&logoColor=white)
@@ -100,8 +100,8 @@ zsearch --help
 
 ## More Projects
 
-* 📦 **[Agent-Skills](https://github.com/jscraik/Agent-Skills)** - My catalogue of Skills.md
 * 📦 **[jscraik](https://github.com/jscraik/jscraik)** - from demo to duty | Veteran-Led
+* 📦 **[Agent-Skills](https://github.com/jscraik/Agent-Skills)** - My catalogue of Skills.md
 * 📦 **[SkillsInspector](https://github.com/jscraik/SkillsInspector)** - Developer toolkit for Skills.md trees
 * 📦 **[aStudio](https://github.com/jscraik/aStudio)** - Cross-Platform UI Workbench
 
