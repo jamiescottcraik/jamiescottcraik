@@ -100,8 +100,8 @@ zsearch --help
 
 ## More Projects
 
-* 📦 **[jscraik](https://github.com/jscraik/jscraik)** - from demo to duty | Veteran-Led
 * 📦 **[aStudio](https://github.com/jscraik/aStudio)** - Cross-Platform UI Workbench
+* 📦 **[jscraik](https://github.com/jscraik/jscraik)** - from demo to duty | Veteran-Led
 * 📦 **[Agent-Skills](https://github.com/jscraik/Agent-Skills)** - My catalogue of Skills.md
 * 📦 **[SkillsInspector](https://github.com/jscraik/SkillsInspector)** - Developer toolkit for Skills.md trees
 
