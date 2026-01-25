@@ -63,7 +63,7 @@
 
 ## Featured Projects (Community + Adoption)
 
-* 🧭 **[ralph-gold](https://github.com/jscraik/ralph-gold)** - A *Golden Ralph Loop* orchestrator that runs **fresh CLI-agent sessions** (Codex, Claude Code, Co...
+* 🧭 **[ralph-gold](https://github.com/jscraik/ralph-gold)** ⭐ 1 - A *Golden Ralph Loop* orchestrator that runs **fresh CLI-agent sessions** (Codex, Claude Code, Co...
 * 📄 **[rSearch](https://github.com/jscraik/rSearch)** - rSearch helps developers search, fetch, and download arXiv papers from the terminal
 * 📚 **[wSearch](https://github.com/jscraik/wSearch)**
 * 🔍 **[zSearch](https://github.com/jscraik/zSearch)** - Z.AI capabilities CLI and MCP server for agents and automation
